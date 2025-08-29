@@ -35,7 +35,7 @@ The **final production builds** and **source code** are **not** included in this
 
 ### 👉 Download Links
 - [**Download OrderUp Prototype (Client App)**](./Object/prototype/OrderUpPrototype.apk)  
-- [**Download OrderUp Admin Prototype (Admin App)**](./OrderUpAdmin-prototype.apk)  
+- [**Download OrderUp Admin Prototype (Admin App)**](./Object/prototype/OrderUpAdminPrototype.apk)  
 
 ### Installation Steps:
 1. Download the APK(s) using the links above.  
